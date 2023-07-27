@@ -1,62 +1,65 @@
 
 
-import project01 from "./../img/projects/01.jpg";
-import project01Big from "./../img/projects/01-big.jpg";
+import project01 from "./../img/projects/01-big-h.jpg";
+import project01Big from "./../img/projects/01-big-h.jpg";
 
-import project02 from "./../img/projects/02.jpg";
-import project02Big from "./../img/projects/02-big.jpg";
+import project02 from "./../img/projects/02-big-P.jpg";
+import project02Big from "./../img/projects/02-big-P.jpg";
 
-import project03 from "./../img/projects/03.jpg";
-import project03Big from "./../img/projects/03-big.jpg";
+import project03 from "./../img/projects/03-big-I.jpg";
+import project03Big from "./../img/projects/03-big-I.jpg";
 
-import project04 from "./../img/projects/04.jpg";
-import project04Big from "./../img/projects/04-big.jpg";
+import project04 from "./../img/projects/04-big-R.jpg";
+import project04Big from "./../img/projects/04-big-R.jpg";
 
-import project05 from "./../img/projects/05.jpg";
-import project05Big from "./../img/projects/05-big.jpg";
+import project05 from "./../img/projects/05-big-F.jpg";
+import project05Big from "./../img/projects/05-big-F.jpg";
 
-import project06 from "./../img/projects/06.jpg";
-import project06Big from "./../img/projects/06-big.jpg";
+import project06 from "./../img/projects/06-big-W.jpg";
+import project06Big from "./../img/projects/06-big-W.jpg";
 
 const projects = [
   {
-    title: "Gaming streaming portal",
+    title: "Сайт: Готель для котів",
     skills: "React, Node.js",
     img: project01,
     imgBig: project01Big,
-    gitHubLink: "https://github.com",
+    gitHubLink: "https://agronom99.github.io/a_hotel_for_cats-react/",
   },
   {
-    title: "Video service",
+    title: "Сайт: Інтернет магазин",
     img: project02,
     imgBig: project02Big,
-    skills: "React, PHP, MySql",
-    gitHubLink: "https://github.com",
+    skills: "React, Redux",
+    gitHubLink: "https://agronom99.github.io/pizza_shop_react/",
   },
   {
-    title: "Video portal",
+    title: "Сайт: Itech",
     img: project03,
     imgBig: project03Big,
     skills: "React, Node.js",
-    gitHubLink: "https://github.com",
+    gitHubLink: "https://github.com/agronom99/itech",
   },
   {
-    title: "Dating app",
+    title: "Сайт: Резюме",
     img: project04,
     imgBig: project04Big,
-    skills: "React Native",
+    skills: "HTML, CSS",
+    gitHubLink: "https://agronom99.github.io/Resume/",
   },
   {
-    title: "Landing",
+    title: "Сайт: Меблевий магазин",
     img: project05,
     imgBig: project05Big,
-    skills: "HTML, SCSS, JS",
+    skills: "HTML, CSS, JS, Bootstrap",
+    gitHubLink: "https://agronom99.github.io/FurnitureTest/",
   },
   {
-    title: "Gaming community",
+    title: "Сайт: Web Studio",
     img: project06,
     imgBig: project06Big,
-    skills: "React, PHP, MySql",
+    skills:"HTML, CSS",
+    gitHubLink: "https://agronom99.github.io/projekt-WebStudio2022/",
   },
 ];
 
