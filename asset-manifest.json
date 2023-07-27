@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freelance-portfolio-react-proect-ukr/static/css/main.4a3f0645.css",
-    "main.js": "/freelance-portfolio-react-proect-ukr/static/js/main.1dd845d8.js",
+    "main.js": "/freelance-portfolio-react-proect-ukr/static/js/main.58b8cb72.js",
     "static/js/787.a91624ec.chunk.js": "/freelance-portfolio-react-proect-ukr/static/js/787.a91624ec.chunk.js",
     "static/media/03-big-I.jpg": "/freelance-portfolio-react-proect-ukr/static/media/03-big-I.29d662a89785a770817e.jpg",
     "static/media/02-big-P.jpg": "/freelance-portfolio-react-proect-ukr/static/media/02-big-P.04f8f7bd7ec0157f174b.jpg",
@@ -20,11 +20,11 @@
     "index.html": "/freelance-portfolio-react-proect-ukr/index.html",
     "static/media/linkedIn.svg": "/freelance-portfolio-react-proect-ukr/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.4a3f0645.css.map": "/freelance-portfolio-react-proect-ukr/static/css/main.4a3f0645.css.map",
-    "main.1dd845d8.js.map": "/freelance-portfolio-react-proect-ukr/static/js/main.1dd845d8.js.map",
+    "main.58b8cb72.js.map": "/freelance-portfolio-react-proect-ukr/static/js/main.58b8cb72.js.map",
     "787.a91624ec.chunk.js.map": "/freelance-portfolio-react-proect-ukr/static/js/787.a91624ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a3f0645.css",
-    "static/js/main.1dd845d8.js"
+    "static/js/main.58b8cb72.js"
   ]
 }
