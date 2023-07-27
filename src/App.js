@@ -21,7 +21,7 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/freelance-portfolio-react-proect-ukr" element={<Home />} />
+          <Route path="/freelance_portfolio_react_ukr" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contacts" element={<Contacts />} />
           <Route path="/project/:id" element={<Project />} />
