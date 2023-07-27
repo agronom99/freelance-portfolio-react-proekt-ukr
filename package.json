@@ -1,8 +1,8 @@
 {
-  "name": "freelance-portfolio-react-proect-ukr",
+  "name": "freelance_portfolio_react_ukr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://agronom99.github.io/freelance-portfolio-react-proect-ukr",
+  "homepage": "https://agronom99.github.io/freelance_portfolio_react_ukr",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
