@@ -45,7 +45,7 @@ const projects = [
     img: project04,
     imgBig: project04Big,
     skills: "HTML, CSS",
-    gitHubLink: "https://agronom99.github.io/Resume/",
+    gitHubLink: "https://resume-ukr.vercel.app/",
   },
   {
     title: "Сайт: Меблевий магазин",
