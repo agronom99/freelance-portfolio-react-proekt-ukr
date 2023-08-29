@@ -38,7 +38,7 @@ const projects = [
     img: project03,
     imgBig: project03Big,
     skills: "React, Node.js",
-    gitHubLink: "https://github.com/agronom99/itech",
+    gitHubLink: "https://itech-tau.vercel.app/",
   },
   {
     title: "Сайт: Резюме",
